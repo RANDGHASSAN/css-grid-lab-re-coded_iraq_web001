@@ -1,4 +1,10 @@
-{height: 100vh;
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+.grid-container {
+  height: 100vh;
   width: 100vw;
   /* your properties here */
   display: grid;
